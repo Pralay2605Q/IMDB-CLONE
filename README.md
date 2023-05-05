@@ -74,7 +74,7 @@ I hope this gives you a good understanding of the project and how it works. Let 
 
 # LINKS
 
-<a href = "https://pralay2605q.github.io/Alarm-Clock/"> <b>LIVE PRODUCT</b> </a>  &nbsp; <a href = "https://github.com/Pralay2605Q/Alarm-Clock"> <b>CODE</b> </a> <br>
+<a href = "https://pralay2605q.github.io/IMDB-CLONE/"> <b>LIVE PRODUCT</b> </a>  &nbsp; <a href = "https://github.com/Pralay2605Q/IMDB-CLONE"> <b>CODE</b> </a> <br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>

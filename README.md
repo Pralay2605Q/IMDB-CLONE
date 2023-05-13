@@ -70,7 +70,7 @@ I hope this gives you a good understanding of the project and how it works. Let 
 
 # PRODUCT DEMO
 
-![IMDB-CLONE]<img src="IMDB-CLONE.png">   <br>
+![IMDB-CLONE]<img src="IMDB-CLONES.png">   <br>
 
 # LINKS
 
